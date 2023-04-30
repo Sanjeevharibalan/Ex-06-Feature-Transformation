@@ -17,10 +17,8 @@ Apply Feature Transformation techniques to all the features of the data set
 Print the transformed features.
 
 ## PPROGRAM:
-~~~
-Developed by : RAGUL M
-Registration Number : 212221230080
-~~~
+
+
 ~~~
 import numpy as np
 import pandas as pd
